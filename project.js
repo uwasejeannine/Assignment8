@@ -1,24 +1,3 @@
-// class Mkulima{
-//     constructor(product,order,vendor){
-//         this.farms=[];
-//         this.product=[];
-//         this.order=[];
-//         this.vendor=[];
-//     }
-//     addFarm(){
-//         console.log(`${this.farms}`);
-//     }
-// }
-// class Farm extends Mkulima{
-//     constructor(id, farmName, farmer, phoneNumber, address){
-//         super(id, farmName, farmer, phoneNumber, address);
-//     }
-// }
-// let  farm=new Farm();
-// console.log(farms.addFarm(1980045676319,"Mulima","Karima",25789897375,"Karen"));
-
-
-
 class Mkulima{
     constructor(product,order,vendor){
         this.farm=[];
